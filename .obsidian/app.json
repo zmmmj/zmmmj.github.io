@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "scaffolds/",
+    "themes/",
+    "public/"
+  ],
+  "livePreview": true
+}
