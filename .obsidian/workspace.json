@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/2023.4.4 Hexo + Obsidian + Git 快速搭建博客.md",
+                "file": "source/_posts/Hexo + Obsidian + Git 快速搭建博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/2023.4.4 Hexo + Obsidian + Git 快速搭建博客.md",
+                "file": "source/_posts/Hexo + Obsidian + Git 快速搭建博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/2023.4.4 Hexo + Obsidian + Git 快速搭建博客.md",
+                "file": "source/_posts/Hexo + Obsidian + Git 快速搭建博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/2023.4.4 Hexo + Obsidian + Git 快速搭建博客.md"
+                "file": "source/_posts/Hexo + Obsidian + Git 快速搭建博客.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "a9c093aedc73b77b",
   "lastOpenFiles": [
     "source/_obsidian/Post Template.md",
-    "source/_posts/2023.4.4 Hexo + Obsidian + Git 快速搭建博客.md",
+    "source/_posts/Hexo + Obsidian + Git 快速搭建博客.md",
     "source/_obsidian",
     "新建文本文档.txt"
   ]

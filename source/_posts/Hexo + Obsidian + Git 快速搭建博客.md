@@ -1,5 +1,5 @@
 ---
-title: 2023.4.4 Hexo + Obsidian + Git 部署博客
+title: Hexo + Obsidian + Git 部署博客
 date: 2023-04-04 19:16:25
 tags: []
 ---
